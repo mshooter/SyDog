@@ -1,6 +1,7 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@InProceedings{Shooter_2021_C4Animals,
+    author    = {Moira Shooter, Charles Malleson, Adrian Hilton},
+    title     = {SyDog: A Synthetic Dog Dataset for Improved 2D Pose Estimation},
+    booktitle = {CV4Animals Workshop in confjuction with Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021}
 }
