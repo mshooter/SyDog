@@ -1,7 +1,8 @@
-@InProceedings{Shooter_2021_C4Animals,
-    author    = {Moira Shooter, Charles Malleson, Adrian Hilton},
-    title     = {SyDog: A Synthetic Dog Dataset for Improved 2D Pose Estimation},
-    booktitle = {CV4Animals Workshop in confjuction with Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2021}
+@misc{shooter2021sydog,
+      title={SyDog: A Synthetic Dog Dataset for Improved 2D Pose Estimation}, 
+      author={Moira Shooter and Charles Malleson and Adrian Hilton},
+      year={2021},
+      eprint={2108.00249},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
